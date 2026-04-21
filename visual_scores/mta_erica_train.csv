@@ -1,0 +1,7 @@
+filepath,MTA,ERICA
+sample_dataset/train/train_sample_0001/cropped/norm_to_mni305_1mm_left.nii.gz,1,2
+sample_dataset/train/train_sample_0001/cropped/norm_to_mni305_1mm_right.nii.gz,0,1
+sample_dataset/train/train_sample_0002/cropped/norm_to_mni305_1mm_left.nii.gz,3,0
+sample_dataset/train/train_sample_0002/cropped/norm_to_mni305_1mm_right.nii.gz,2,3
+sample_dataset/train/train_sample_0003/cropped/norm_to_mni305_1mm_left.nii.gz,4,1
+sample_dataset/train/train_sample_0003/cropped/norm_to_mni305_1mm_right.nii.gz,1,2

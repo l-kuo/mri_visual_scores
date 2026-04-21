@@ -1,0 +1,4 @@
+filepath,label
+sample_dataset/train/train_sample_0001/norm_to_mni305_1mm.nii.gz,0
+sample_dataset/train/train_sample_0002/norm_to_mni305_1mm.nii.gz,1
+sample_dataset/train/train_sample_0003/norm_to_mni305_1mm.nii.gz,2

@@ -1,0 +1,3 @@
+filepath,MTA,ERICA
+sample_dataset/test/test_sample_0001/cropped/norm_to_mni305_1mm_left.nii.gz,2,1
+sample_dataset/test/test_sample_0001/cropped/norm_to_mni305_1mm_right.nii.gz,3,0

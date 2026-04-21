@@ -1,0 +1,4 @@
+filepath,label,EXAMAGE,GENDER,PTEDUCAT,CDR,FAQ,TMSE,MOCA,GCA,MTA_RIGHT,MTA_LEFT,ERICA_RIGHT,ERICA_LEFT
+sample_dataset/train/train_sample_0001/norm_to_mni305_1mm.nii.gz,0,68,0,16,0.0,2,29,27,0,0,1,2,2
+sample_dataset/train/train_sample_0002/norm_to_mni305_1mm.nii.gz,1,72,1,12,0.5,8,22,21,1,2,2,1,0
+sample_dataset/train/train_sample_0003/norm_to_mni305_1mm.nii.gz,2,78,0,10,1.0,20,15,13,2,3,4,3,3

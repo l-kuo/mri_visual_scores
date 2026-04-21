@@ -1,0 +1,2 @@
+filepath,label,EXAMAGE,GENDER,PTEDUCAT,CDR,FAQ,TMSE,MOCA,GCA,MTA_RIGHT,MTA_LEFT,ERICA_RIGHT,ERICA_LEFT
+sample_dataset/test/test_sample_0001/norm_to_mni305_1mm.nii.gz,1,74,1,14,0.5,10,24,22,1,2,1,1,2
