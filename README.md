@@ -91,3 +91,14 @@ Fuses MRI features with tabular clinical data (age, CDR, FAQ, TMSE, MOCA, etc.) 
 cd clinical
 python train.py
 ```
+
+## Related Repositories
+
+> **Note:** The `sample_dataset/` included in this repository contains mock data for structural reference only and is not suitable for training or evaluation. To replicate the results, you must obtain the data directly from the official sources listed in the [Data Sources](#sources) table above. We do not hold redistribution rights for any of the datasets used in this project.
+
+---
+
+
+| Repository | Description |
+|---|---|
+| [mri_visual_scores_web](https://github.com/l-kuo/mri_visual_scores_web) | Web application for MRI preprocessing and model inference. Handles skull stripping, MNI305 registration, hippocampal cropping, and serves trained models via a REST API. |
